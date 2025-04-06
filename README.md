@@ -1,1 +1,2 @@
 # User-Centric-ML-framework-for-CSOCs
+I developed a real-time threat detection system by leveraging machine learning models trained on bank payment data. I built an interactive front-end using React.js and a Django-based back-end to ensure efficient and secure monitoring. I also implemented PostgreSQL for scalable data storage and enhanced the system's adaptability to suit Cybersecurity Operations Center (CSOC) environments.
